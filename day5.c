@@ -4,10 +4,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-// const int LINE_NUMBER = 10;
-// const int LINE_LENGTH = 10;
-// const int GRID_SIZE = 10;
-
 const int LINE_NUMBER = 500;
 const int LINE_LENGTH = 18;
 const int GRID_SIZE = 1000;
